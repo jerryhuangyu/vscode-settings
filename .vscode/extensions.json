@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    // Productivity
+    "vscodevim.vim",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "naumovs.color-highlight",
+    // Snippets
+    "dsznajder.es7-react-js-snippets",
+    // Live Collaboration
+    "MS-vsliveshare.vsliveshare",
+    // Code Formatting
+    "esbenp.prettier-vscode"
+  ]
+}
