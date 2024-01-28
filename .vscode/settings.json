@@ -1,25 +1,27 @@
 {
-    // Editor Settings
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
-    // Explorer Settings
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    // Vim Settings
-    "vim.useCtrlKeys": false,
-    "vim.hlsearch": false,
-    "vim.handleKeys": {
-        "<C-a>": false,
-        "<C-b>": false,
-        "<C-c>": false,
-        "<C-d>": false,
-        "<C-f>": false,
-        "<C-h>": false,
-        "<C-s>": false,
-        "<C-z>": false,
-    },
-    // Import Updates on File Move Settings
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "javascript.updateImportsOnFileMove.enabled": "always",
+  // Editor Settings
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  // Explorer Settings
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // Vim Settings
+  "vim.useCtrlKeys": false,
+  "vim.hlsearch": false,
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-b>": false,
+    "<C-c>": false,
+    "<C-d>": false,
+    "<C-f>": false,
+    "<C-h>": false,
+    "<C-s>": false,
+    "<C-z>": false
+  },
+  // Git Settings
+  "git.autofetch": true,
+  // Import Updates on File Move Settings
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
